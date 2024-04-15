@@ -45,5 +45,6 @@ plt.grid(linestyle='dashed')
 ax.set_xlabel('Displacement, mm',fontsize = 15)
 ax.set_ylabel('Force, N',fontsize = 15)
 #plt.savefig('figure_to_save.eps', format='eps')
-![Alt text](readme-files/readme_pic1.PNG "Optional title")
 ```
+![Alt text](readme-files/readme_pic1.PNG "Optional title")
+
